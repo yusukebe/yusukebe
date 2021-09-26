@@ -1,4 +1,7 @@
-### Hi there 👋
+### Yusuke Wada 👋
+
+![github followers](https://img.shields.io/github/followers/yusukebe?style=social)
+![twitter](https://img.shields.io/twitter/follow/yusukebe?style=social)
 
 👉 [*yusukebe.com*](https://yusukebe.com/) 
 
