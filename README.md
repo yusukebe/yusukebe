@@ -1,7 +1,7 @@
 ### I'm Yusuke Wada 👋
 
-![github followers](https://img.shields.io/github/followers/yusukebe?style=social)
-![twitter](https://img.shields.io/twitter/follow/yusukebe?style=social)
+[![github followers](https://img.shields.io/github/followers/yusukebe?style=social)](https://github.com/yusukebe)
+[![twitter](https://img.shields.io/twitter/follow/yusukebe?style=social)](https://twitter.com/yusukebe)
 
 👉 [*yusukebe.com*](https://yusukebe.com/) 
 
