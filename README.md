@@ -1,4 +1,4 @@
-### Yusuke Wada 👋
+### I'm Yusuke Wada 👋
 
 ![github followers](https://img.shields.io/github/followers/yusukebe?style=social)
 ![twitter](https://img.shields.io/twitter/follow/yusukebe?style=social)
