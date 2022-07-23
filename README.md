@@ -15,7 +15,7 @@ I've contributed to "*web*" and will try to it.
 > *Just for fun*.
 
 This is my most favorite words.
-I want to be a developer like a teenager who is a beginner of guitar, want to have own guitar, save money, get an new acoustic guitar,  playing it in a park on the mountain every time until his hands are broken.
+I want to be a developer like a teenager who is a beginner of guitar, want to have own guitar, save money, get an new acoustic guitar,  playing the "Tangerine" by Led Zeppelin in a park on the mountain every time until his hands are broken.
 
 ## What I'm creating
 
