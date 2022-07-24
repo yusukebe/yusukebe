@@ -4,16 +4,17 @@
 [![twitter](https://img.shields.io/twitter/follow/yusukebe?style=social)](https://twitter.com/yusukebe)
 
 
-Hi! I'm Yusuke Wada. My account name is "*yusukebe*" in almost any place. Remember it. I'm a developer, creator, or supervisor. I don't want you call me *full-stack*, but it seems to be *full-stack*.
+Hi! I'm Yusuke Wada. My account name is "*yusukebe*" in almost any place. Remember it. I'm a developer, creator, or supervisor. I don't believe that you call me *full-stack*, but it seems to be *full-stack*.
 
 > *I love "web"*.
 
-I have grown up with the growth of "*web*". I've created many mush-up services, user-generated content systems, web APIs for mobile applications, useful CLI tools, and so on. Most are like junk, but a few have been used by some people.
-I've contributed to "*web*" and keep it.
+Do you like web?
+I have grown up with the growth of "*web*". I've created many mush-up services, user-generated contents systems, web APIs for mobile applications, useful CLI tools, and so on. Most are like junk, junk, junk... But a few have been used by some people.
+I'll keep contributing to *web*.
 
 > *Just for fun*.
 
-That's my favorite words.
+Didn't you hear those words somewhere?
 I want to be a developer like a teenager who is a beginner of guitar, want to have his own guitar, save money, get a new acoustic guitar,  play Led Zeppelin's "Tangerine" in a park on the top of a mountain until his hands are broken.
 Just for fun.
 
